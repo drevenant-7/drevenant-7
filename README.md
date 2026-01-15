@@ -32,3 +32,5 @@
 
 📫 **Contact me:**
 - GitHub: [https://github.com/drevenant-7](https://github.com/drevenant7)
+- Sidestore: [https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.msi]
+(https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.msi)
