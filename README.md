@@ -15,6 +15,10 @@
 <p>
   <img src="https://skillicons.dev/icons?i=swift,objectivec,cpp,c,python" />
 </p>
+### 💻 Apps for coding
+<p>
+  <img src="https://skillicons.dev/icons?i=github,idea,linux,vscode,ubuntu,apple" />
+</p>
 
 ---
 
@@ -23,6 +27,7 @@
 - Build **iOS applications** with Swift and Objective-C.
 - Create **system-level programs** with C and C++.
 - Implement **scripts and data solutions** using Python.
+- Bring **Minecraft Java Edtion** for iOS Called **POJAV IOS V2**
 
 📫 **Contact me:**
 - GitHub: [https://github.com/drevenant-7](https://github.com/drevenant7)
