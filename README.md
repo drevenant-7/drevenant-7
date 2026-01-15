@@ -1,16 +1,28 @@
-## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?drevenant-7=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**drevenant-7/drevenant-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there, I'm Khin Phunnadet
 
-Here are some ideas to get you started:
+💻 Passionate about building software and applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Technologies
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 🧠 Programming & Networking
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,objectivec,cpp,c,python" />
+</p>
+
+---
+
+## 📌 What I Do
+- Develop **web applications** using modern frontend technologies.
+- Build **iOS applications** with Swift and Objective-C.
+- Create **system-level programs** with C and C++.
+- Implement **scripts and data solutions** using Python.
+
+📫 **Contact me:**
+- GitHub: [https://github.com/drevenant-7](https://github.com/drevenant7)
