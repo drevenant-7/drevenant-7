@@ -13,7 +13,7 @@
 
 ### 🧠 Programming & Networking
 <p>
-  <img src="https://skillicons.dev/icons?i=swift,objectivec,cpp,c,python" />
+  <img src="https://skillicons.dev/icons?i=swift,cpp,c,python" />
 </p>
 
 ### 💻 Apps for coding
