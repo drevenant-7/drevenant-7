@@ -28,9 +28,7 @@
 - Build **iOS applications** with Swift and Objective-C.
 - Create **system-level programs** with C and C++.
 - Implement **scripts and data solutions** using Python.
-- Bring **Minecraft Java Edtion** for iOS Called **POJAV IOS V2**
+- Bring **Minecraft Java Edtion** for iOS Called **Zenith Launcher**
 
 📫 **Contact me:**
-- GitHub: [https://github.com/drevenant-7](https://github.com/drevenant7)
-- Sidestore: [https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.msi]
-(https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.msi)
+- GitHub: [https://github.com/drevenant-7](https://github.com/drevenant-7)
